@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f9;
+}
+
+form {
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    background: #fff;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+}
+
+.error {
+    color: red;
+    font-size: 12px;
+}
